@@ -1,0 +1,9 @@
+.completed {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
+.todo-div li {
+    flex: 1;
+    border-radius: 20px;
+    margin-top: 23px;
+}
